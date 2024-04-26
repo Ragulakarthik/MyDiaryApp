@@ -1,0 +1,63 @@
+#MainDiv{
+    background-color: rgb(192, 246, 228);
+}
+#HeadDiv{
+    border: 1px solid black;
+    height: 70px;
+    width: 100%;
+    background-color: rgb(192, 246, 228);
+}
+#ImageDiv{
+    border: 1px solid black;
+    height: 550px;
+    width: 49.78%;
+    float: left;
+    background-color: rgb(192, 246, 228);
+}
+#LoginDiv{
+    border: 1px solid black;
+    height: 550px;
+    width: 50%;
+    float: left;
+    background-color: rgb(192, 246, 228);
+}
+#RegisterDiv{
+    border: 1px solid black;
+    height: 550px;
+    width: 50%;
+    float: left;
+    background-color: rgb(192, 246, 228);
+}
+#AddEntryDiv{
+    border: 1px solid black;
+    height: 550px;
+    width: 50%;
+    float: left;
+    background-color: rgb(192, 246, 228);
+}
+#ViewEntryDiv{
+    border: 1px solid black;
+    height: 550px;
+    width: 50%;
+    float: left;
+    background-color: rgb(192, 246, 228);
+}
+#UpdateEntryDiv{
+    border: 1px solid black;
+    height: 550px;
+    width: 50%;
+    float: left;
+    background-color: rgb(192, 246, 228);
+}
+#WelcomeDiv{
+    border: 1px solid black;
+    height: 550px;
+    width: 100%;
+    background-color: rgb(192, 246, 228);
+}
+input{
+    font-size: 30px;
+}
+label{
+    color: chocolate;
+}
